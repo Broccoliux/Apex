@@ -17,6 +17,9 @@
 <img width="1028" height="290" alt="image" src="https://github.com/user-attachments/assets/325272ee-ad34-40a4-b83c-0e5c81bc5a1c" />
 <img width="1023" height="261" alt="image" src="https://github.com/user-attachments/assets/d5a2cc79-ceb9-4e9e-8e3c-55bd895d5332" />
 
+<img width="1366" height="464" alt="image" src="https://github.com/user-attachments/assets/f1bd78ca-72ba-43e0-85b0-a6c808a45f88" />
+
+
 
 Apex is a custom **112 key full size** wireless mechanical keyboard I designed from the ground up after building a macropad and deciding a store bought board would never feel like mine.
 
